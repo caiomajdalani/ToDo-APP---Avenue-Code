@@ -1,0 +1,38 @@
+{
+  "uid" : "c68ba4faf867b037",
+  "name" : "check the My Tasks button",
+  "title" : "check the My Tasks button",
+  "time" : {
+    "start" : 1499018262630,
+    "stop" : 1499018262686,
+    "duration" : 56
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "37b08ac1567b0411",
+    "name" : "After login",
+    "title" : "After login"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "After login"
+  }, {
+    "name" : "suite-name",
+    "value" : "After login"
+  } ],
+  "parameters" : [ ]
+}

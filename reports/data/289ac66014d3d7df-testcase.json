@@ -1,0 +1,38 @@
+{
+  "uid" : "289ac66014d3d7df",
+  "name" : "when user informs an incorrect password",
+  "title" : "when user informs an incorrect password",
+  "time" : {
+    "start" : 1499017257755,
+    "stop" : 1499017265259,
+    "duration" : 7504
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "cf7e0d1164ae6407",
+    "name" : "Login",
+    "title" : "Login"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Login"
+  }, {
+    "name" : "suite-title",
+    "value" : "Login"
+  } ],
+  "parameters" : [ ]
+}

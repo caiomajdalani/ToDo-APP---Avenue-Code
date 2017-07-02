@@ -1,0 +1,38 @@
+{
+  "uid" : "e573802402ad0c9",
+  "name" : "by hitting enter",
+  "title" : "by hitting enter",
+  "time" : {
+    "start" : 1499017271033,
+    "stop" : 1499017273704,
+    "duration" : 2671
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "b7f9edc7d5f7ea19",
+    "name" : "Create a new task",
+    "title" : "Create a new task"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "Create a new task"
+  }, {
+    "name" : "suite-name",
+    "value" : "Create a new task"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,38 @@
+{
+  "uid" : "2a6ac86c23298c24",
+  "name" : "check the tasks button on navbar",
+  "title" : "check the tasks button on navbar",
+  "time" : {
+    "start" : 1499017269768,
+    "stop" : 1499017269825,
+    "duration" : 57
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "8d4a21500424fe0b",
+    "name" : "After login",
+    "title" : "After login"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "After login"
+  }, {
+    "name" : "suite-name",
+    "value" : "After login"
+  } ],
+  "parameters" : [ ]
+}

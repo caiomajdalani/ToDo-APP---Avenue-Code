@@ -1,0 +1,218 @@
+{
+  "hosts" : [ {
+    "title" : "default",
+    "threads" : [ {
+      "title" : "default",
+      "testCases" : [ {
+        "uid" : "206d6fb1fa10aa0c",
+        "name" : "create a task and see the subtask button",
+        "title" : "create a task and see the subtask button",
+        "time" : {
+          "start" : 1499018276075,
+          "stop" : 1499018277491,
+          "duration" : 1416
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "1e113ec6f2b87e1f",
+        "name" : "number of subtasks created for this task",
+        "title" : "number of subtasks created for this task",
+        "time" : {
+          "start" : 1499018277491,
+          "stop" : 1499018278557,
+          "duration" : 1066
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "818906220c4e2d30",
+        "name" : "create subtasks and check counter again",
+        "title" : "create subtasks and check counter again",
+        "time" : {
+          "start" : 1499018278557,
+          "stop" : 1499018280740,
+          "duration" : 2183
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "bb4309b00db40254",
+        "name" : "open subtask modal and check ID field",
+        "title" : "open subtask modal and check ID field",
+        "time" : {
+          "start" : 1499018280740,
+          "stop" : 1499018281913,
+          "duration" : 1173
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "ae4dc2fe649f9b7b",
+        "name" : "check task description field",
+        "title" : "check task description field",
+        "time" : {
+          "start" : 1499018281913,
+          "stop" : 1499018282991,
+          "duration" : 1078
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "4575771f4a861a",
+        "name" : "check welcome message",
+        "title" : "check welcome message",
+        "time" : {
+          "start" : 1499018262688,
+          "stop" : 1499018263756,
+          "duration" : 1068
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "488b1dac6593d809",
+        "name" : "check the tasks button on navbar",
+        "title" : "check the tasks button on navbar",
+        "time" : {
+          "start" : 1499018262575,
+          "stop" : 1499018262630,
+          "duration" : 55
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "c68ba4faf867b037",
+        "name" : "check the My Tasks button",
+        "title" : "check the My Tasks button",
+        "time" : {
+          "start" : 1499018262630,
+          "stop" : 1499018262686,
+          "duration" : 56
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "dba33db263e56a7",
+        "name" : "add more than 250 characters to SubTask Description",
+        "title" : "add more than 250 characters to SubTask Description",
+        "time" : {
+          "start" : 1499018282994,
+          "stop" : 1499018288271,
+          "duration" : 5277
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "3518620b407d3b9b",
+        "name" : "add a invalid date",
+        "title" : "add a invalid date",
+        "time" : {
+          "start" : 1499018288271,
+          "stop" : 1499018290616,
+          "duration" : 2345
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "da1998ed7242b70",
+        "name" : "add a subtask with + button",
+        "title" : "add a subtask with + button",
+        "time" : {
+          "start" : 1499018290617,
+          "stop" : 1499018293149,
+          "duration" : 2532
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "58ecbcff81418466",
+        "name" : "try to add a subtask without Task Description or Due Date",
+        "title" : "try to add a subtask without Task Description or Due Date",
+        "time" : {
+          "start" : 1499018293149,
+          "stop" : 1499018295488,
+          "duration" : 2339
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "9f4773099ccd09ec",
+        "name" : "add several subtasks and check the order",
+        "title" : "add several subtasks and check the order",
+        "time" : {
+          "start" : 1499018295488,
+          "stop" : 1499018298187,
+          "duration" : 2699
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "870ceeec4a7a2084",
+        "name" : "when user informs an incorrect password",
+        "title" : "when user informs an incorrect password",
+        "time" : {
+          "start" : 1499018250288,
+          "stop" : 1499018257962,
+          "duration" : 7674
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "667c68b804fa82c0",
+        "name" : "with success",
+        "title" : "with success",
+        "time" : {
+          "start" : 1499018257963,
+          "stop" : 1499018262569,
+          "duration" : 4606
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "e2aeed06cfbf765e",
+        "name" : "by hitting enter",
+        "title" : "by hitting enter",
+        "time" : {
+          "start" : 1499018263759,
+          "stop" : 1499018266521,
+          "duration" : 2762
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5c6317cf4f7f748e",
+        "name" : "with less than 3 characters",
+        "title" : "with less than 3 characters",
+        "time" : {
+          "start" : 1499018266521,
+          "stop" : 1499018268867,
+          "duration" : 2346
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "7f7980e7d867495f",
+        "name" : "with more than 250 characters",
+        "title" : "with more than 250 characters",
+        "time" : {
+          "start" : 1499018268867,
+          "stop" : 1499018273544,
+          "duration" : 4677
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "530ee30a62e34ab4",
+        "name" : "by clicking on the add task button",
+        "title" : "by clicking on the add task button",
+        "time" : {
+          "start" : 1499018273544,
+          "stop" : 1499018276071,
+          "duration" : 2527
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

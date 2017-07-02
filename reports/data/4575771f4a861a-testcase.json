@@ -1,0 +1,38 @@
+{
+  "uid" : "4575771f4a861a",
+  "name" : "check welcome message",
+  "title" : "check welcome message",
+  "time" : {
+    "start" : 1499018262688,
+    "stop" : 1499018263756,
+    "duration" : 1068
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "dde7c6f3ecdbe0d0",
+    "name" : "After click on MyTasks",
+    "title" : "After click on MyTasks"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "After click on MyTasks"
+  }, {
+    "name" : "suite-title",
+    "value" : "After click on MyTasks"
+  } ],
+  "parameters" : [ ]
+}

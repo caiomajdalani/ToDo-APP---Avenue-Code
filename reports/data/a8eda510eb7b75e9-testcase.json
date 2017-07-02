@@ -1,0 +1,38 @@
+{
+  "uid" : "a8eda510eb7b75e9",
+  "name" : "add several subtasks and check the order",
+  "title" : "add several subtasks and check the order",
+  "time" : {
+    "start" : 1499017300713,
+    "stop" : 1499017303168,
+    "duration" : 2455
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "33c7472b3454a578",
+    "name" : "Manipulate Subtask Modal:",
+    "title" : "Manipulate Subtask Modal:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Manipulate Subtask Modal:"
+  }, {
+    "name" : "suite-title",
+    "value" : "Manipulate Subtask Modal:"
+  } ],
+  "parameters" : [ ]
+}

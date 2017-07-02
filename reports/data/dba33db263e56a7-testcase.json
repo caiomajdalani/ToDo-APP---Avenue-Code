@@ -1,0 +1,41 @@
+{
+  "uid" : "dba33db263e56a7",
+  "name" : "add more than 250 characters to SubTask Description",
+  "title" : "add more than 250 characters to SubTask Description",
+  "time" : {
+    "start" : 1499018282994,
+    "stop" : 1499018288271,
+    "duration" : 5277
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : {
+    "message" : "Expected true to be false.",
+    "stackTrace" : "Error: Failed expectation\n    at Object.<anonymous> (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/spec/subtaskStory_spec.js:74:44)\n    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:94:23\n    at new ManagedPromise (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:1082:7)\n    at controlFlowExecute (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:80:18)\n    at TaskQueue.execute_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2913:14)\n    at TaskQueue.executeNext_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2896:21)\n    at asyncRun (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2820:25)\n    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:639:7"
+  },
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "FAILED",
+  "suite" : {
+    "uid" : "236e8c1813e38e4d",
+    "name" : "Manipulate Subtask Modal:",
+    "title" : "Manipulate Subtask Modal:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Manipulate Subtask Modal:"
+  }, {
+    "name" : "suite-title",
+    "value" : "Manipulate Subtask Modal:"
+  } ],
+  "parameters" : [ ]
+}

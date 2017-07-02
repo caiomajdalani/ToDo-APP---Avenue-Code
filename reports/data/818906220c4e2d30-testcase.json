@@ -1,0 +1,38 @@
+{
+  "uid" : "818906220c4e2d30",
+  "name" : "create subtasks and check counter again",
+  "title" : "create subtasks and check counter again",
+  "time" : {
+    "start" : 1499018278557,
+    "stop" : 1499018280740,
+    "duration" : 2183
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "a5c6d471c5bedfe",
+    "name" : "Subtasks:",
+    "title" : "Subtasks:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "Subtasks:"
+  }, {
+    "name" : "suite-name",
+    "value" : "Subtasks:"
+  } ],
+  "parameters" : [ ]
+}

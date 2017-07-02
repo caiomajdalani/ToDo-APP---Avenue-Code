@@ -1,0 +1,38 @@
+{
+  "uid" : "206d6fb1fa10aa0c",
+  "name" : "create a task and see the subtask button",
+  "title" : "create a task and see the subtask button",
+  "time" : {
+    "start" : 1499018276075,
+    "stop" : 1499018277491,
+    "duration" : 1416
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "a5c6d471c5bedfe",
+    "name" : "Subtasks:",
+    "title" : "Subtasks:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "Subtasks:"
+  }, {
+    "name" : "suite-name",
+    "value" : "Subtasks:"
+  } ],
+  "parameters" : [ ]
+}

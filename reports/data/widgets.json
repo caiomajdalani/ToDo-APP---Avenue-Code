@@ -1,0 +1,114 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 19,
+        "passed" : 12,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 7,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1499018250288,
+        "stop" : 1499018298187,
+        "duration" : 47899
+      }
+    },
+    "defects" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "count" : 7,
+        "uid" : "f4ded1294ff83bca",
+        "message" : "Expected true to be false.",
+        "status" : "FAILED"
+      } ]
+    },
+    "xunit" : {
+      "totalCount" : 6,
+      "items" : [ {
+        "uid" : "dde7c6f3ecdbe0d0",
+        "title" : "After click on MyTasks",
+        "statistic" : {
+          "total" : 1,
+          "passed" : 1,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "37b08ac1567b0411",
+        "title" : "After login",
+        "statistic" : {
+          "total" : 2,
+          "passed" : 2,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "c9081284cb3571d1",
+        "title" : "Create a new task",
+        "statistic" : {
+          "total" : 4,
+          "passed" : 2,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 2,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "4573b2091b5056e1",
+        "title" : "Login",
+        "statistic" : {
+          "total" : 2,
+          "passed" : 2,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "236e8c1813e38e4d",
+        "title" : "Manipulate Subtask Modal:",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 2,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 3,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "a5c6d471c5bedfe",
+        "title" : "Subtasks:",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 3,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 2,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "Without feature",
+        "statistic" : {
+          "total" : 19,
+          "passed" : 12,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 7,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

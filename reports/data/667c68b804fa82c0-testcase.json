@@ -1,0 +1,38 @@
+{
+  "uid" : "667c68b804fa82c0",
+  "name" : "with success",
+  "title" : "with success",
+  "time" : {
+    "start" : 1499018257963,
+    "stop" : 1499018262569,
+    "duration" : 4606
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "4573b2091b5056e1",
+    "name" : "Login",
+    "title" : "Login"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Login"
+  }, {
+    "name" : "suite-title",
+    "value" : "Login"
+  } ],
+  "parameters" : [ ]
+}

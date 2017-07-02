@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1499018263759" stop="1499018276071">
+	<name>Create a new task</name>
+	<title>Create a new task</title>
+	<test-cases>
+		<test-case start="1499018263759" stop="1499018266521" status="passed">
+			<name>by hitting enter</name>
+			<title>by hitting enter</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1499018266521" stop="1499018268867" status="failed">
+			<name>with less than 3 characters</name>
+			<title>with less than 3 characters</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>Expected true to be false.</message>
+				<stack-trace>Error: Failed expectation
+    at Object.&lt;anonymous&gt; (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/spec/taskStory_spec.js:90:47)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:94:23
+    at new ManagedPromise (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:1082:7)
+    at controlFlowExecute (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:80:18)
+    at TaskQueue.execute_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2913:14)
+    at TaskQueue.executeNext_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2896:21)
+    at asyncRun (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2820:25)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:639:7
+    at process._tickCallback (internal/process/next_tick.js:109:7)</stack-trace>
+			</failure>
+		</test-case>
+		<test-case start="1499018268867" stop="1499018273544" status="failed">
+			<name>with more than 250 characters</name>
+			<title>with more than 250 characters</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>Expected true to be false.</message>
+				<stack-trace>Error: Failed expectation
+    at Object.&lt;anonymous&gt; (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/spec/taskStory_spec.js:98:47)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:94:23
+    at new ManagedPromise (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:1082:7)
+    at controlFlowExecute (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:80:18)
+    at TaskQueue.execute_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2913:14)
+    at TaskQueue.executeNext_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2896:21)
+    at asyncRun (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2820:25)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:639:7
+    at process._tickCallback (internal/process/next_tick.js:109:7)</stack-trace>
+			</failure>
+		</test-case>
+		<test-case start="1499018273544" stop="1499018276071" status="passed">
+			<name>by clicking on the add task button</name>
+			<title>by clicking on the add task button</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

@@ -1,0 +1,38 @@
+{
+  "uid" : "2f9f24e03ffdc835",
+  "name" : "add a subtask with + button",
+  "title" : "add a subtask with + button",
+  "time" : {
+    "start" : 1499017295925,
+    "stop" : 1499017298391,
+    "duration" : 2466
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "33c7472b3454a578",
+    "name" : "Manipulate Subtask Modal:",
+    "title" : "Manipulate Subtask Modal:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Manipulate Subtask Modal:"
+  }, {
+    "name" : "suite-title",
+    "value" : "Manipulate Subtask Modal:"
+  } ],
+  "parameters" : [ ]
+}

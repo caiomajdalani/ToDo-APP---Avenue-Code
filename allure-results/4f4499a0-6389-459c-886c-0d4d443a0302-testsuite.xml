@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1499018282994" stop="1499018298187">
+	<name>Manipulate Subtask Modal:</name>
+	<title>Manipulate Subtask Modal:</title>
+	<test-cases>
+		<test-case start="1499018282994" stop="1499018288271" status="failed">
+			<name>add more than 250 characters to SubTask Description</name>
+			<title>add more than 250 characters to SubTask Description</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>Expected true to be false.</message>
+				<stack-trace>Error: Failed expectation
+    at Object.&lt;anonymous&gt; (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/spec/subtaskStory_spec.js:74:44)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:94:23
+    at new ManagedPromise (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:1082:7)
+    at controlFlowExecute (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:80:18)
+    at TaskQueue.execute_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2913:14)
+    at TaskQueue.executeNext_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2896:21)
+    at asyncRun (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2820:25)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:639:7</stack-trace>
+			</failure>
+		</test-case>
+		<test-case start="1499018288271" stop="1499018290616" status="failed">
+			<name>add a invalid date</name>
+			<title>add a invalid date</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>Expected true to be false.</message>
+				<stack-trace>Error: Failed expectation
+    at Object.&lt;anonymous&gt; (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/spec/subtaskStory_spec.js:80:44)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:94:23
+    at new ManagedPromise (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:1082:7)
+    at controlFlowExecute (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:80:18)
+    at TaskQueue.execute_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2913:14)
+    at TaskQueue.executeNext_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2896:21)
+    at asyncRun (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2820:25)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:639:7</stack-trace>
+			</failure>
+		</test-case>
+		<test-case start="1499018290617" stop="1499018293149" status="passed">
+			<name>add a subtask with + button</name>
+			<title>add a subtask with + button</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1499018293149" stop="1499018295488" status="failed">
+			<name>try to add a subtask without Task Description or Due Date</name>
+			<title>try to add a subtask without Task Description or Due Date</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>Expected true to be false.</message>
+				<stack-trace>Error: Failed expectation
+    at Object.&lt;anonymous&gt; (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/spec/subtaskStory_spec.js:93:44)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:94:23
+    at new ManagedPromise (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:1082:7)
+    at controlFlowExecute (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/jasminewd2/index.js:80:18)
+    at TaskQueue.execute_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2913:14)
+    at TaskQueue.executeNext_ (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2896:21)
+    at asyncRun (/Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:2820:25)
+    at /Users/caiomajdalani/Documents/Workspaces/Protractor/Avenue Code/ToDo App/tests/node_modules/selenium-webdriver/lib/promise.js:639:7</stack-trace>
+			</failure>
+		</test-case>
+		<test-case start="1499018295488" stop="1499018298187" status="passed">
+			<name>add several subtasks and check the order</name>
+			<title>add several subtasks and check the order</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

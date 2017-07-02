@@ -1,0 +1,38 @@
+{
+  "uid" : "fa1c273642561a8a",
+  "name" : "number of subtasks created for this task",
+  "title" : "number of subtasks created for this task",
+  "time" : {
+    "start" : 1499017284181,
+    "stop" : 1499017285231,
+    "duration" : 1050
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "cb71eb723a9350ff",
+    "name" : "Subtasks:",
+    "title" : "Subtasks:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "Subtasks:"
+  }, {
+    "name" : "suite-name",
+    "value" : "Subtasks:"
+  } ],
+  "parameters" : [ ]
+}
