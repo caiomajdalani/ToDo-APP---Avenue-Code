@@ -2,7 +2,7 @@
 
 Funciontal tests for Avenue Code Engineer Test
 
-> App [(link)](https://http://qa-test.avenuecode.com/)
+> App [(link)](http://qa-test.avenuecode.com/)
 
 ## Test Management credentials
 email: caio.majdalani@gmail.com
@@ -31,7 +31,7 @@ Install it as:
 Too run tests in terminal, type:
 
 ```
-  npn tests
+  npm tests
   or
   protractor protractor.conf.js
 ```
